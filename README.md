@@ -11,7 +11,7 @@ A noble initiative by Pragyan Social Responsibility team to spread awareness amo
 
 ## What's in this repo:
 
-* Used [Reveal.js](lab.hakim.se/reveal-js/#/) to prepare the slide deck.
+* Used [Reveal.js](http://lab.hakim.se/reveal-js/#/) to prepare the slide deck.
 * Slide deck for various streams of courses
 * Slide deck related to Computer Science and Engineering. You know I am a CS student after all
 
